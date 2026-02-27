@@ -16,14 +16,14 @@ The following labs were completed to build foundational knowledge in data govern
     - Defined data quality dimensions (Accuracy, Completeness, Consistency, Timeliness, Validity).
     - Identified data quality issues and their potential impact on business operations.
     - Provided actionable recommendations for data cleansing and long-term improvement.
-- **Artifact**: `Data Quality Assessment Report_Diane_ISHIMWE.pdf`
+- **Artifact**: `Data quality Assessment/Data Quality Assessment Report_Diane_ISHIMWE.pdf`
 
 #### 2. Multi-Jurisdiction Compliance Challenge
 - **Goal**: Address the complexities of data compliance across multiple regulatory environments.
 - **Key Activities**:
     - Analyzed the impact of different data protection laws (e.g., GDPR, local regulations) on data residency and cross-border transfers.
     - Developed a strategy for maintaining compliance while operating in diverse jurisdictions.
-- **Artifact**: `Multi-Jurisdiction Compliance Challenge_Diane_ISHIMWE (1).pdf`
+- **Artifact**: `Compliance challenge/Multi-Jurisdiction Compliance Challenge_Diane_ISHIMWE (1).pdf`
 
 ---
 
@@ -38,6 +38,6 @@ The Capstone project represents the culmination of the module, applying all lear
     - Evaluated data privacy and security measures for sensitive personal information.
     - Proposed a comprehensive governance framework to ensure ethical, legal, and compliant data usage.
     - Conducted a risk-benefit analysis of data collection vs. privacy requirements.
-- **Artifact**: `Governance Review for QuickLoan Mobile_Diane_ISHIMWE.pdf`
+- **Artifact**: `Governance Review/Governance Review for QuickLoan Mobile_Diane_ISHIMWE.pdf`
 
 
